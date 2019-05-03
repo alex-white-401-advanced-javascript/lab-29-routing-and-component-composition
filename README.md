@@ -12,7 +12,7 @@
    * [CodeSandbox](https://codesandbox.io/s/3838v70wm1)
 
 #### Assignment 2 - Modularize and Functionalize
-   * [CodeSandbox]()
+   * [CodeSandbox](https://codesandbox.io/s/4rwzrpm314)
 
 #### Assignment 3 - Conditionals
    * [CodeSandbox]()
